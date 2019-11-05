@@ -1,0 +1,10 @@
+{
+	"schools": [
+		{
+			"id": 1,
+			"school_school_name": "Bella Vista Public School",
+			"school_postcode": "2211",
+			"school_instrument_options": ["Brass", "Trombone", "Trumpet"]
+		}
+	]
+}
